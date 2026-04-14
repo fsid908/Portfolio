@@ -71,7 +71,7 @@ Portfolio
 
 ---
 
-# ⚙️ How It Works
+#  How It Works
 
 ### Navigation
 
@@ -157,7 +157,7 @@ If you found this project helpful, consider giving it a **star ⭐ on GitHub**.
 This project is licensed under the **MIT License**.
 
 ---
-## 👨 Author
+##  Author
 
 **Farhan Siddiqui**
 
